@@ -1,0 +1,77 @@
+-Can we add an animation of a greeting when the page is loaded? I have attached a video to show you what I mean. It shows a couple messages to greet the user before the chatbot is opened
+-When the chat bubble is clicked to open, can it be a smoother open transition, rather than it just appearing? See video for example
+-Change the fonts. What options are available? Or do I send you a specific file?
+-Will the calendar be a direct calendly integration?
+-"Send" button needs to be modified
+
+-Will I receive all files? In case I need to do minor tweaking
+-My voice flow API key: VF.DM.668dab9e3159a400af80b269.K96KtFCOMt0lvVam
+-Change the chat bubble icon to the same image as the header icon (yellow profile photo)
+
+
+Here is my Project ID: 668d954e5c6f06ab0dcc0a9c
+The example chatbot animation that I showed in the video was from www.hpa.academy
+You can also see it on my website www.agentautomation.ca
+
+
+
+I am looking for someone that can build a beautiful front end for a Voiceflow chatbot. I have the design (created in Figma), as well as extra examples to work off of.
+Basic functionality required as the Voiceflow integration takes care of most of it. You will just need to connect specific buttons to Voiceflow actions/triggers.
+
+I run a Chatbot agency, so this job will be to see your work, so that I can find my 'go-to' designer for future chatbot builds. I have many projects available, so I am ultimately looking for someone who can work quickly and take on multiple projects over time.
+
+Voiceflow docs:
+https://docs.voiceflow.com/docs/react-chat
+https://docs.voiceflow.com/docs/web-chat-overview
+
+Requirements:
+-Must be able to integrate with Voiceflow chatbots via the chatbot's API key.
+-Must be fluent in React, CSS, HTML, Java, etc.
+-Must be fully functioning.
+
+See Figma example here:
+https://www.figma.com/design/3uP7WU6GhzzKBWkinrrVhn/VF-Front-End?t=bDbW1M04VgmNNRTF-1
+
+
+Hi Vladyslav,
+
+
+
+We have narrowed it down to our top 5 candidates and you are on of them.
+
+
+
+Just to make sure we are clear on the work, here are some more details:
+-The Chatbot can be/will be deployed on various websites via a deployment code (I can send you an example of the code that I currently use from a 3rd party platform if you want to see). What I need is someone who can design the front end, with the proper functionality (pop-up chat bubble, minimize screen, all buttons connected properly) and with the proper connection to the desired Voiceflow chatbot via the Voiceflow Chatbot's API key.
+
+
+
+-There are 5 main buttons, plus the image bubbles that link to separate url's plus the calendly integration at the bottom. The buttons are:
+1. Exit button (top right). We may want to add a 'minimize' button as well?
+2. 'Help me buy a home' (this would trigger a specific workflow within Voiceflow)
+3. 'Help me sell my home' (this would trigger a specific workflow within Voiceflow)
+4. 'Speak to an agent' (this would place a call)
+5. 'I have a question' (this would trigger a specific workflow within Voiceflow)
+
+
+
+Then once specific workflows are triggered, the chat window would open which would have more buttons ('send' button, 'restart chat' button', 'exit chat' button)
+
+
+
+-It's not a web app, its a chatbot built on Voiceflow that can be deployed to anyone's website. Here is my website where you can see my chatbot (bottom right corner chat bubble): www.agentautomation.ca
+I don't know what language Voiceflow uses. I am not familiar with any coding language so you would have to check the documentation.
+Here are some good videos for reference:
+https://youtu.be/TfGuo0V7IoA?si=O0daale1Xs_8Ra6n
+https://youtu.be/SJ4vWLt1b6M?si=5ugqOYbX-sIPt2Sl
+
+
+
+-I will need to be able to use this front-end across multiple chatbots by switching out the Chatbot API key.
+-The Calendly integration will need to be coded so that I can use my client's API key OR their embed code from Calendly.
+
+
+
+Can all of this be done in under 25 hours?
+
+Home | Agent Automation

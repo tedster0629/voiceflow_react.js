@@ -29,7 +29,7 @@ const Message = styled.div<{ delay: number }>`
 `;
 
 const MessageContainer = styled.div`
-  position: fixed;
+  position: absolute;
   bottom: 100px; // Adjust this value if you want more spacing from the bottom
   right: 10px; // Adjust to move messages to the right
   display: flex;
@@ -38,7 +38,7 @@ const MessageContainer = styled.div`
   z-index: 0.5; // Make sure it appears above other content
 `;
 
-const ChatGreeting: React.FC = (props) => {
+const ChatGreeting: React.FC = (props :any) => {
     const flag = props.flag;
   const [showMessages, setShowMessages] = useState(false);
   const [messages, setMessages] = useState<string[]>([]);
